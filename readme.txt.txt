@@ -1,3 +1,3 @@
 Welcome to MyProject!
 
-author: Nelly
+Author: Nelly Njeri
