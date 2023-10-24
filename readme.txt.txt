@@ -1,5 +1,5 @@
 Welcome to MyProject!
 
-Author: Nelly Njeri
+Author: Nelly Njeri Kamande
 
 Twitter: @Nellynjeri
