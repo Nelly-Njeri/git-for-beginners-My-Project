@@ -1,3 +1,3 @@
-Welcome to MyProject!
+Welcome to the "git for beginners" MyProject!
 
 author: Nelly
